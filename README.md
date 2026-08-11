@@ -1,8 +1,8 @@
 # Hi, I'm Benson K B 👋
 
-  ### Blockchain Lead · Web3 Architect · AI×Blockchain Engineer
+  ### Software Engineer @ Luxoft · Tokenization Architect (RWA / ERC-3643) · AI×Blockchain
 
-  13+ years in software engineering, 9+ years specializing in blockchain. Currently leading blockchain at **Shamlatech Solutions**.
+  13+ years in software engineering, 9+ years specializing in blockchain. Currently a Software Engineer at **Luxoft India**, focused on RWA tokenization (ERC-3643) and Web3 engineering.
 
   🌐 **Portfolio:** [bensonkb.com](https://bensonkb.com)
 
@@ -11,8 +11,7 @@
   ## 💫 About Me
 
   🛠️  **Currently working on**<br>
-  DeFi protocols, multi-chain RWA tokenization, P2P exchange platforms, and AI-agent integrations for Web3 infrastructure at Shamlatech
-  Solutions
+  DeFi protocols, multi-chain RWA tokenization, P2P exchange platforms, and AI-agent integrations for Web3 infrastructure at Luxoft India
 
   👯 **Looking to collaborate on**<br>
   Blockchain projects involving smart contracts, cross-chain bridges, DApps, tokenomics design, and AI×Web3 convergence
@@ -106,6 +105,7 @@
   om/in/benson-k-b-91a88722a/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]
   (https://github.com/benzntech)
   [![Email](https://img.shields.io/badge/Email-bensonkb@live.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bensonkb@live.in)
+  [![Telegram](https://img.shields.io/badge/Telegram-@techyaltar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/techyaltar)
 
   ---
 
