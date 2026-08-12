@@ -101,9 +101,8 @@
   ## 🌐 Connect
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-bensonkb.com-gold?style=for-the-badge)](https://bensonkb.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.c
-  om/in/benson-k-b-91a88722a/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]
-  (https://github.com/benzntech)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benson-k-b-91a88722a/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benzntech)
   [![Email](https://img.shields.io/badge/Email-bensonkb@live.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bensonkb@live.in)
   [![Telegram](https://img.shields.io/badge/Telegram-@techyaltar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/techyaltar)
 
@@ -111,11 +110,9 @@
 
   ## 📊 GitHub Stats
 
-  ![](https://github-readme-stats.vercel.app/api?username=benzntech&theme=transparent&hide_border=false&include_all_commits=true&count_privat
-  e=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=benzntech&theme=transparent&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=benzntech&theme=transparent&hide_border=false&include_all_commits=true&c
-  ount_private=false&layout=compact)
+  ![](https://github-readme-stats.shion.dev/api?username=benzntech&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=benzntech&theme=transparent&hide_border=false)<br/>
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=benzntech&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   ---
 
